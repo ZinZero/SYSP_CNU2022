@@ -24,7 +24,7 @@
 - trace 00, 01, 02
 - trace 03, 04, 05, 06, 07
 - trace 08, 11
-complete
+<br>complete
 
 ### Malloc Lab
 - implicit : complete
